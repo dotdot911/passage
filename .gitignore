@@ -1,0 +1,11 @@
+.build/
+.swiftpm/
+DerivedData/
+.dd/
+*.xcodeproj/
+xcuserdata/
+.DS_Store
+config.json
+.state/
+.runs/
+.claude/worktrees/
